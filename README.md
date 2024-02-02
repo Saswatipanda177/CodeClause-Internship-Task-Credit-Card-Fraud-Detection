@@ -1,6 +1,6 @@
 # CodeClause-Internship-Task-Credit-Card-Fraud-Detection
 This repository contains the implementation of a Credit Card Fraud Detection System, developed as a part of the internship at CodeClause.
-I've utilized a comprehensive Credit Card Fraud Detection System dataset from Kaggle, delving into the intricate details of credit card transactions. Explore the dataset and gain insights that contribute to the development of an effective fraud detection solution. 
+I've utilized a comprehensive Credit Card Fraud Detection System dataset from Kaggle, delving into the intricate details of credit card transactions. Explore the dataset and gain insights that contribute to the development of an effective fraud detection solution.                                                                                
 Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
 Overview:                                                                                                        
