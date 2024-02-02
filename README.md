@@ -22,4 +22,4 @@ Key Features:
 
 
 Credits:
-This project was developed during an internship at CodeClause. 
+This project was developed during my internship at CodeClause. 
