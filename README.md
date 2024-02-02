@@ -2,11 +2,11 @@
 This repository contains the implementation of a Credit Card Fraud Detection System, developed as a part of the internship at CodeClause.
 
 
-Overview:
+Overview:                                                                                                        
 Credit card fraud is a prevalent issue in the financial industry, requiring robust solutions for early detection and prevention. This project aims to build an effective fraud detection system using machine learning algorithms.
 
 
-Key Features:
+Key Features:                                                                                                              
 ➊ Dataset Analysis: Thorough exploration and analysis of the credit card transaction dataset to understand the distribution of legitimate and fraudulent transactions.
 
 ➋ Data Preprocessing: Comprehensive preprocessing steps, including handling missing values, scaling features, and encoding categorical variables.
